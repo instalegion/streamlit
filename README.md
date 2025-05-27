@@ -43,7 +43,7 @@ streamlit run app.py
 
 ## 🧑‍💻 Συντελεστές
 - Σουλιώτης Κωνσταντίνος: UI/UX, Streamlit logic
-- Αντώνης: DEG ανάλυση, Dockerization
+- Αντώνης Σοφοκίτης: DEG ανάλυση, Dockerization
 
 ---
 
